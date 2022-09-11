@@ -1,0 +1,3 @@
+[NAME=Tutorial]Daggers can be collected and are found around the island.
+[NAME=Tutorial]You start with 5 daggers and can find more around the forest.
+[NAME=Tutorial]Try to find as many daggers as you can before you escape.

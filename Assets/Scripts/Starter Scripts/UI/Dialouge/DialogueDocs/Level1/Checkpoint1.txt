@@ -1,0 +1,2 @@
+[NAME=Tutorial]You have reached a checkpoint!
+[NAME=Tutorial]If you run out of health, you will now respawn here.

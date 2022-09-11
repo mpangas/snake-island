@@ -1,0 +1,3 @@
+[NAME=Radio]Come in Jack. Be careful of the spike pits, they are extremely dangerous.
+[NAME=Jack Flynn]Don't worry, I got this. 
+[NAME=Radio]See if you can make it to the portal, maybe that will lead you to the key.

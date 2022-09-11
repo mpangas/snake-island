@@ -1,0 +1,4 @@
+[NAME=Jack Flynn]Oh my! I have spotted one of the vicious snakes!
+[NAME=Radio]Be careful! If you get too close, it will bite.
+[NAME=Tutorial]Being attacked by snakes will cost you one life droplet.
+[NAME=Tutorial]If you lose all four life droplets, you will perish!

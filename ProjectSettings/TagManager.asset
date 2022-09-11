@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - SceneManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 351833223
+    locked: 0
+  - name: Background1
+    uniqueID: 1404943585
+    locked: 0
+  - name: Background2
+    uniqueID: 342563031
+    locked: 0
+  - name: Background3
+    uniqueID: 160979623
+    locked: 0
+  - name: Background4
+    uniqueID: 1828717343
+    locked: 0
+  - name: Background5
+    uniqueID: 1930730333
+    locked: 0
+  - name: Background6
+    uniqueID: 3505377683
+    locked: 0
+  - name: Background7
+    uniqueID: 2424662271
+    locked: 0
+  - name: Background8
+    uniqueID: 3001362337
+    locked: 0
+  - name: Background9
+    uniqueID: 372699385
+    locked: 0
+  - name: TilesBackground
+    uniqueID: 4285360423
+    locked: 0
+  - name: TilesDecoration
+    uniqueID: 1346292969
+    locked: 0
+  - name: TilesMain
+    uniqueID: 8731393
+    locked: 0
+  - name: Midground
+    uniqueID: 890159685
+    locked: 0
+  - name: Gameplay
+    uniqueID: 2787286723
+    locked: 0
+  - name: Foreground
+    uniqueID: 1743365011
+    locked: 0
+  - name: UI
+    uniqueID: 2896612441
+    locked: 0
+  - name: Camera
+    uniqueID: 2836715299
+    locked: 0

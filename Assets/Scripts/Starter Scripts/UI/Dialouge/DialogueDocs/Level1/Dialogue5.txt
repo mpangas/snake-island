@@ -1,0 +1,3 @@
+[NAME=Jack Flynn]Woah, it's a long way up from here.
+[NAME=Radio]Don't worry! You can jump up using the crooks in the wall.
+[NAME=Tutorial]Jump onto each platform to scale the cliff.

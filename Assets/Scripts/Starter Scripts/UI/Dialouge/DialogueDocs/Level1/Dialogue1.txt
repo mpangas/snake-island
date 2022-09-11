@@ -1,0 +1,5 @@
+[NAME=Radio]Mainland to Jack. Come in, Jack. Do you copy?
+[NAME=Jack Flynn]Copy mainland. I have made it into the jungle. This place is oddly quiet.
+[NAME=Jack Flynn]I'm going to keep moving, there's something off about this area.
+[NAME=Radio]Copy that. Just keep an eye out for the snakes, they're deadly.
+[NAME=Tutorial]Use the A and D keys to move around and the space bar to jump.

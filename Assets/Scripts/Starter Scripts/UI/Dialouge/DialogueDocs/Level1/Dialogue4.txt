@@ -1,0 +1,4 @@
+[NAME=Tutorial]You have encountered a health potion!
+[NAME=Tutorial]Collecting these heals one of your snake bites, granting one health droplet.
+[NAME=Tutorial]But this won't save you from the deadly quicksand.
+[NAME=Tutorial]Jump over the quicksand or risk perishing immediately!

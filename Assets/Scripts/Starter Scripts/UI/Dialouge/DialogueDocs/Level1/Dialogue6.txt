@@ -1,0 +1,2 @@
+[NAME=Jack Flynn]Come in immediately. I have found what seems to be a portal.
+[NAME=Radio]Perhaps entering it will transport you across the island. Good luck, Jack.
