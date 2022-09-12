@@ -12,6 +12,7 @@ public class PlayerAttack : MonoBehaviour
     private Vector2 lastKnownDirection;
     [Tooltip("The coolDown before you can attack again")]
     public float coolDown = 0.4f;
+    public bool isAttacking = false;
 
     private bool canAttack = true;
 
@@ -46,8 +47,10 @@ public class PlayerAttack : MonoBehaviour
     public void Attack(float xDirection, float yDirection)
     {
         //This is where the weapon is rotated in the right direction that you are facing
+        isAttacking = true;
         if (weapon)
         {
+            isAttacking = true;
             if (xDirection != 0 || yDirection != 0)
             {
                 weapon.transform.rotation = transform.rotation;
@@ -97,6 +100,7 @@ public class PlayerAttack : MonoBehaviour
     {
         if (weapon)
         {
+            isAttacking = false;
             weapon.WeaponFinished();
         }
     }

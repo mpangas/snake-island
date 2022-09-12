@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - SceneManager
+  - Weapon
   layers:
   - Default
   - TransparentFX
