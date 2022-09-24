@@ -3,8 +3,8 @@
 2D Platform Game Created With Unity
 Created for the University of Florida course DIG2632 Creating Mobile Games
 
-## Game Demo
-A video demonstrating the gameplay can be found [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+## Playthrough DemonstratioN
+A video demonstrating the gameplay can be found [here](https://www.youtube.com/watch?v=9Qf7Xl6-upg).
 
 ## What is Snake Island?
 Snake Island is an action-adventure story game where an ambitious explorer battles his way through an island that has been long abandoned, left for its native inhabitants: the highly venomous golden lancehead pit viper. 
